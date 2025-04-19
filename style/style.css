@@ -1,3 +1,22 @@
+.form{
+    background-color: rgb(145, 6, 75);
+    text-transform: uppercase;
+    color: azure;
+    padding: 50px 300px;
+}
+.form  input {
+    background-color: rgb(240, 240, 240);
+    padding: 10px 120px;
+}
+.form fieldset {
+    width: 500px;
+    margin:20px 0;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
 div {
     color: whitesmoke;
     background-color: black;
@@ -21,6 +40,7 @@ div h3 {
     border-radius: 0 20px 50px 20px;
     border: 2px solid rebeccapurple;
     padding-top: 100px;
+    margin-top: 100px;
 }
 button{
     background-color: green;
